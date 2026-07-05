@@ -175,9 +175,15 @@
   Работаю с репозиториями, README, оформлением профиля, коммитами и структурой проектов.
 </p>
 
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
 
-<h2 align="center">🤖 AI & Automation</h2>
+<h2 align="center">AI & Automation</h2>
 
 <p>
   <b>Telegram Bots</b> — █████░░░░░ 50%
