@@ -21,11 +21,6 @@
     <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
   </picture>
 </p>
-
-<p align="center">
-  <b>Backend Developer</b> • <b>AI Automation</b> • <b>Bots</b> • <b>Python</b> • <b>TypeScript</b>
-</p>
-
 <br>
 
 <table>
