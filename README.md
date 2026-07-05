@@ -331,6 +331,60 @@
 
 <hr>
 
+<h3 align="center">
+  MindMap — full-stack сервис визуальных досок
+</h3>
+
+<p align="center">
+  Визуальная доска для планирования проектов: карточки на canvas, связи между задачами,
+  чек-листы, дедлайны, приоритеты, документы, совместный доступ и уведомления в реальном времени.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/FastAPI-0.128-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/aiogram-3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram">
+  <img src="https://img.shields.io/badge/SSE-Realtime-111111?style=for-the-badge&logo=socketdotio&logoColor=white" alt="SSE">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ilia4/Guido-Mindmap">
+    <img src="https://img.shields.io/badge/Open%20Repository-111111?style=for-the-badge&logo=github&logoColor=white" alt="Open repository">
+  </a>
+</p>
+
+<p>
+  <b>Что реализовано:</b>
+</p>
+
+<ul>
+  <li>Список проектов, папки, закрепление, архивирование и тёмная/светлая тема</li>
+  <li>Canvas-доска с карточками, drag&drop, зумом, панорамированием и связями между карточками</li>
+  <li>Чек-листы, дедлайны, важность, срочность и расчёт приоритета задач</li>
+  <li>Прикрепление документов и изображений к карточкам</li>
+  <li>Совместный доступ к доскам с управлением правами</li>
+  <li>Real-time уведомления через Server-Sent Events с fallback на polling</li>
+  <li>Telegram-бот для ежедневной синхронизации задач и уведомлений</li>
+  <li>Интеграция с общей авторизацией Guido через Bearer-токен</li>
+</ul>
+
+<details>
+  <summary><b>Показать архитектурную схему</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="assets/mindmap-architecture.png" alt="MindMap architecture scheme" width="100%">
+</p>
+
+</details>
+
+<hr>
+
 <h3>📦 Telegram Material Tracking Bot</h3>
 
 <p>
