@@ -1,19 +1,19 @@
-
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark-theme.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/image.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light-theme.png">
     <img alt="Profile header" src="assets/image.png" width="100%">
   </picture>
-
+</p>
 
 <h1 align="center">Welcome to my profile</h1>
-
-<picture>
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark-theme.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/image.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light-theme.png">
     <img alt="Profile header" src="assets/image.png" width="100%">
   </picture>
-<p align="center">
+</p>
   
   Backend Developer • AI Automation • Bots • Python • TypeScript
 </p>
