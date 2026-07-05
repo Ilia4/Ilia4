@@ -232,17 +232,6 @@
 </p>
 <br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,postgres,prisma,docker,react,git,github,linux,vscode" alt="Tech stack">
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
-    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
-  </picture>
-</p>
 
 <h2 align="center">Мои основные проекты</h2>
 
