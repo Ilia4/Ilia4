@@ -438,7 +438,22 @@
   </picture>
 </p>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-light.png">
+    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ilia4&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub stats">
