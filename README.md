@@ -442,7 +442,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/github-light.png">
-    <img alt="Git Hub Activiti" src="assets/title-light-theme.png" width="65%">
+    <img alt="Git Hub Activiti" src="assets/title-light-theme.png" width="45%">
   </picture>
 </p>
 
