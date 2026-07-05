@@ -73,12 +73,6 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-kj1r.onrender.com/">
-    <img src="https://img.shields.io/badge/My_Portfolio-Open-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
