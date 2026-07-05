@@ -183,7 +183,7 @@
   </picture>
 </p>
 
-<h2 align="center">AI & Automation</h2>
+<h2 align="center">ИИ и автоматизация</h2>
 
 <p>
   <b>Telegram Bots</b> — █████░░░░░ 50%
@@ -244,9 +244,11 @@
   </picture>
 </p>
 
-<h2 align="center">🚀 Projects & Experience</h2>
+<h2 align="center">Мои основные проекты</h2>
 
-<h3>🤖 HH.ru AI Screening Automation</h3>
+<h3>
+  <img src="https://img.shields.io/badge/HH.ru-AI Automation-E1011C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru AI Automation">
+</h3>
 
 <p>
   Сервис для автоматизации обработки откликов с HH.ru:
@@ -257,6 +259,29 @@
 <p>
   <b>Stack:</b> TypeScript, NestJS, API, LLM, Google Sheets, Automation
 </p>
+
+<p>
+  <b>Что реализовано:</b>
+</p>
+
+<ul>
+  <li>Получение откликов по вакансиям через API</li>
+  <li>Анализ резюме кандидатов с помощью LLM</li>
+  <li>Оценка кандидатов по заданным критериям</li>
+  <li>Работа с шаблонами сообщений</li>
+  <li>Интеграция с Google Sheets для хранения настроек и результатов</li>
+</ul>
+
+<details>
+  <summary><b>Показать схему проекта</b></summary>
+
+<br>
+
+<p align="center">
+  <img src="assets/hh-ai-automation-scheme.png" alt="HH.ru automation project scheme" width="100%">
+</p>
+
+</details>
 
 <hr>
 
