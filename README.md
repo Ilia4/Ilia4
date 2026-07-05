@@ -43,7 +43,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark-new.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/about-me-light-new.png">
-    <img alt="About me" src="assets/about-me-light-new.png" width="100%">
+    <img alt="About me" src="assets/about-me-light-new.png" width="75%">
   </picture>
 </p>
 
