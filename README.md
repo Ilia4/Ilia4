@@ -471,10 +471,8 @@
   </picture>
 </p>
 
-<h2 align="center">📫 Contacts</h2>
-
 <p align="center">
-  <a href="https://t.me/your_username">
+  <a href="https://t.me/jzxd111">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/telegram-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="assets/telegram-light.png">
@@ -482,7 +480,7 @@
     </picture>
   </a>
 
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:gf12658@gmail.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="assets/email-light.png">
