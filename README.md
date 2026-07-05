@@ -199,8 +199,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/automation-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/automation-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/automation-dark-new.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/automation-light-new.png">
     <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
   </picture>
 </p>
