@@ -275,18 +275,29 @@
   </picture>
 </p>
 
-<h3>
-  <img src="https://img.shields.io/badge/HH.ru-AI Automation-E1011C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru AI Automation">
+<h3 align="center">
+  <img src="https://img.shields.io/badge/HH.ru-AI%20Hiring%20Automation-E1011C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru AI Hiring Automation">
 </h3>
 
-<p>
-  Сервис для автоматизации обработки откликов с HH.ru:
-  получение откликов, анализ резюме через LLM, оценка кандидатов,
-  работа с шаблонами сообщений и интеграция с таблицами.
+<h3 align="center">
+  HH.ru AI Automation — бот для автоматизации найма
+</h3>
+
+<p align="center">
+  Telegram-бот, который автоматизирует обработку откликов на HH.ru:
+  скрининг резюме, оценку тестовых заданий через LLM, Q&A с кандидатами,
+  согласование собеседований и уведомления HR.
 </p>
 
-<p>
-  <b>Stack:</b> TypeScript, NestJS, API, LLM, Google Sheets, Automation
+<p align="center">
+  <b>TypeScript</b> • <b>grammY</b> • <b>PostgreSQL</b> • <b>Prisma</b> • 
+  <b>HH.ru API</b> • <b>Google Sheets API</b> • <b>LLM</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ТВОЙ_USERNAME/НАЗВАНИЕ_РЕПОЗИТОРИЯ">
+    <img src="https://img.shields.io/badge/Open%20Repository-111111?style=for-the-badge&logo=github&logoColor=white" alt="Open repository">
+  </a>
 </p>
 
 <p>
@@ -294,20 +305,21 @@
 </p>
 
 <ul>
-  <li>Получение откликов по вакансиям через API</li>
-  <li>Анализ резюме кандидатов с помощью LLM</li>
-  <li>Оценка кандидатов по заданным критериям</li>
-  <li>Работа с шаблонами сообщений</li>
-  <li>Интеграция с Google Sheets для хранения настроек и результатов</li>
+  <li>Получение откликов и работа со стадиями кандидатов через HH.ru API</li>
+  <li>LLM-оценка резюме и тестовых заданий по заданным критериям</li>
+  <li>Human-in-the-loop: финальное решение остаётся за HR</li>
+  <li>Q&A по базе знаний с эскалацией вопросов в Telegram</li>
+  <li>Согласование собеседований и напоминания за 30 минут</li>
+  <li>Google Sheets как интерфейс для HR: конфиги, шаблоны, аналитика и база знаний</li>
 </ul>
 
 <details>
-  <summary><b>Показать схему проекта</b></summary>
+  <summary><b>Показать архитектурную схему</b></summary>
 
 <br>
 
 <p align="center">
-  <img src="assets/hh-ai-automation-scheme.png" alt="HH.ru automation project scheme" width="100%">
+  <img src="assets/hh-ai-automation-scheme.png" alt="HH.ru AI Automation architecture scheme" width="100%">
 </p>
 
 </details>
