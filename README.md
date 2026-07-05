@@ -470,7 +470,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/telegram-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="assets/telegram-light.png">
-      <img src="assets/telegram-light.png" alt="Telegram" width="180">
+      <img src="assets/telegram-light.png" alt="Telegram" width="340">
     </picture>
   </a>
 
