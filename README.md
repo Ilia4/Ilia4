@@ -25,10 +25,10 @@
 <br>
 
 <p align="center">
-  <img src="assets/avatar-1вап.jpg" width="120" alt="Avatar 1">
-  <img src="assets/friday_cвап.gif" width="120" alt="Avatar 2">
-  <img src="assets/avatar-3вап.jpg" width="120" alt="Avatar 3">
-  <img src="assets/avatar-4вап.jpg" width="120" alt="Avatar 4">
+  <img src="assets/avatar-1.jpg" width="200" alt="Avatar 1">
+  <img src="assets/friday_c.gif" width="200" alt="Avatar 2">
+  <img src="assets/avatar-3.jpg" width="200" alt="Avatar 3">
+  <img src="assets/avatar-4.jpg" width="200" alt="Avatar 4">
 </p>
 
 <p align="center">
@@ -489,3 +489,10 @@
   </a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
