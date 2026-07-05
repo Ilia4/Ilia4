@@ -456,8 +456,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilia4&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilia4&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/top-language.png">
+    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+  </picture>
 </p>
 
 <p align="center">
