@@ -457,7 +457,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/top-language-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/top-language.png">
     <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
   </picture>
