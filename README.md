@@ -29,6 +29,7 @@
   <img src="assets/friday_c.gif" width="200" alt="Avatar 2">
   <img src="assets/avatar-3.jpg" width="200" alt="Avatar 3">
   <img src="assets/avatar-4.jpg" width="200" alt="Avatar 4">
+  <img src="assets/avatar-5.png" width="200" alt="Avatar 5">
 </p>
 
 <p align="center">
