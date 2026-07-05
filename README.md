@@ -90,7 +90,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/level-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/level-light.png">
-    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+    <img alt="My lvl" src="assets/title-light-theme.png" width="75%">
   </picture>
 </p>
 
@@ -201,7 +201,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/automation-dark-new.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/automation-light-new.png">
-    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+    <img alt="Automation" src="assets/title-light-theme.png" width="75%">
   </picture>
 </p>
 
@@ -263,7 +263,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/project-light.png">
-    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+    <img alt="My projects" src="assets/title-light-theme.png" width="75%">
   </picture>
 </p>
 
@@ -442,7 +442,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/github-light.png">
-    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="55%">
+    <img alt="Git Hub Activiti" src="assets/title-light-theme.png" width="25%">
   </picture>
 </p>
 
