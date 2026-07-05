@@ -8,7 +8,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark-theme.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark-theme-Photoroom.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/title-light-theme.png">
     <img alt="Profile header" src="assets/image.png" width="100%">
   </picture>
