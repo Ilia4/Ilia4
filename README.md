@@ -474,17 +474,20 @@
 <h2 align="center">📫 Contacts</h2>
 
 <p align="center">
-  <a href="https://my-portfolio-kj1r.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
   <a href="https://t.me/your_username">
-    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/telegram-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/telegram-light.png">
+      <img src="assets/telegram-light.png" alt="Telegram" width="180">
+    </picture>
   </a>
+
   <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="assets/email-light.png">
+      <img src="assets/email-light.png" alt="Email" width="180">
+    </picture>
   </a>
 </p>
 
-<p align="center">
-  <b>Learning by building. Building by learning.</b>
-</p>
