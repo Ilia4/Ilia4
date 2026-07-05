@@ -189,7 +189,29 @@
   Работаю с репозиториями, README, оформлением профиля, коммитами и структурой проектов.
 </p>
 
-<h2 align="center">ИИ и автоматизация</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/automation-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/automation-light.png">
+    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
 
 <p>
   <b>Telegram Bots</b> — █████░░░░░ 50%
