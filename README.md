@@ -6,7 +6,14 @@
   </picture>
 </p>
 
-<h1 align="center">Welcome to my profile</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dsfdsfsd.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/title-light-theme.png">
+    <img alt="Profile header" src="assets/image.png" width="100%">
+  </picture>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark-theme.png">
