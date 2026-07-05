@@ -25,7 +25,11 @@
 
 <br>
 
-<img align="left" src="assets/avatar-round.png" width="220" alt="Profile avatar">
+<p align="center">
+  <img src="assets/avatar-1.png" width="120" alt="Avatar 1">
+  <img src="assets/friday_c.gif" width="120" alt="Avatar 2">
+  <img src="assets/avatar-3.png" width="120" alt="Avatar 3">
+</p>
 
 <h2>👨‍💻 About me</h2>
 
