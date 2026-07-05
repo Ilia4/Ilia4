@@ -258,10 +258,22 @@
     <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
   </picture>
 </p>
-<br>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/project-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/project-light.png">
+    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+  </picture>
+</p>
 
-<h2 align="center">Мои основные проекты</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
 
 <h3>
   <img src="https://img.shields.io/badge/HH.ru-AI Automation-E1011C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru AI Automation">
