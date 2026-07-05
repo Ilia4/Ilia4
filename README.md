@@ -25,11 +25,11 @@
 <br>
 
 <p align="center">
-  <img src="assets/avatar-1.jpg" width="200" alt="Avatar 1">
-  <img src="assets/friday_c.gif" width="200" alt="Avatar 2">
-  <img src="assets/avatar-3.jpg" width="200" alt="Avatar 3">
-  <img src="assets/avatar-4.jpg" width="200" alt="Avatar 4">
-  <img src="assets/avatar-5.png" width="200" alt="Avatar 5">
+  <img src="assets/avatar-1.jpg" width="160" alt="Avatar 1">
+  <img src="assets/friday_c.gif" width="160" alt="Avatar 2">
+  <img src="assets/avatar-3.jpg" width="160" alt="Avatar 3">
+  <img src="assets/avatar-4.jpg" width="160" alt="Avatar 4">
+  <img src="assets/avatar-5.png" width="160" alt="Avatar 5">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 
 <p align="center">
   Я активно развиваюсь в backend-разработке и учусь создавать практичные сервисы,
-  которые работают с API, базами данных, Telegram-ботами, парсерами и AI-интеграциями. Вы можете написать своё мнение про мой текущий уровень, интересно узнать ваше мнение.
+  которые работают с API, базами данных, Telegram-ботами, парсерами и AI-интеграциями. Буду рад обратной связи по моему текущему уровню и проектам..
 </p>
 
 <p align="center">
@@ -437,7 +437,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/github-light.png">
-    <img alt="Git Hub Activiti" src="assets/title-light-theme.png" width="35%">
+    <img alt="GitHub Activity" src="assets/github-light.png" width="35%">
   </picture>
 </p>
 
