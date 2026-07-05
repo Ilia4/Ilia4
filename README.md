@@ -32,7 +32,7 @@
 <tr>
 <td width="40%" valign="top" align="center">
 
-<img src="assets/avatar-about.png" width="220" alt="Profile avatar">
+<img src="assets/profile.png" width="220" alt="Profile avatar">
 
 <h2>Ilya</h2>
 
