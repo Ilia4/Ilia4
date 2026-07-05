@@ -32,8 +32,29 @@
   <img src="assets/avatar-4.jpg" width="120" alt="Avatar 4">
 </p>
 
-<h2>👨‍💻 About me</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/about-me-light.png">
+    <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="75%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/chain-dark-theme-Photoroom.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/chain-light-theme-Photoroom.png">
+    <img alt="Decorative chain" src="assets/chain-light-theme-Photoroom.png" width="100%">
+  </picture>
+</p>
 <p>
   I'm a Backend Developer focused on <b>AI automation</b>, bots and business process automation.
 </p>
