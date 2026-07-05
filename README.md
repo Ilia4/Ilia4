@@ -42,8 +42,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/about-me-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/about-me-dark-new.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/about-me-light-new.png">
     <img alt="Welcome to my profile" src="assets/title-light-theme.png" width="100%">
   </picture>
 </p>
