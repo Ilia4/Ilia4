@@ -392,8 +392,15 @@
   Идея проекта — автоматически собирать сообщения из рабочих чатов и записывать данные в таблицы.
 </p>
 
-<p>
-  <b>Stack:</b> Python, Telegram Bot API, Google Sheets API, Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API">
+  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API">
+  <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repository-will%20be%20available%20later-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repository will be available later">
 </p>
 
 <hr>
@@ -405,47 +412,22 @@
   создания эмбеддингов и поиска по смыслу внутри видео или аудиоматериалов.
 </p>
 
-<p>
-  <b>Stack:</b> Python, Whisper, Embeddings, Vector Search, Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
+  <img src="https://img.shields.io/badge/Whisper-111111?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper">
+  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Embeddings">
+  <img src="https://img.shields.io/badge/Vector_Search-FF6B00?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Search">
+  <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repository-will%20be%20available%20later-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repository will be available later">
 </p>
 
 <hr>
 
-<h3>🧩 Backend Services with NestJS</h3>
-
-<p>
-  Учебные и практические backend-сервисы с контроллерами, сервисами,
-  DTO, Prisma, PostgreSQL и обработкой ошибок.
-</p>
-
-<p>
-  <b>Stack:</b> TypeScript, Node.js, NestJS, Prisma, PostgreSQL
-</p>
-
-<hr>
-
-<h3>🌐 Parser Dashboard</h3>
-
-<p>
-  Веб-интерфейс и backend для управления парсером:
-  запуск, остановка, проверка статуса и связь frontend с backend через API.
-</p>
-
-<p>
-  <b>Stack:</b> React, Vite, NestJS, TypeScript, API
-</p>
-
-<hr>
-
-<h3>🧠 AI Automation Experiments</h3>
-
-<p>
-  Эксперименты с AI-агентами, OpenClaw, n8n, LLM API,
-  обработкой данных, таблицами и автоматизацией рабочих процессов.
-</p>
-
-<p>
-  <b>Stack:</b> AI Agents, n8n, LLM API, Python, Docker, VPS
+<p align="center">
+  <b>Раздел с проектами будет пополняться по мере выполнения новых задач и публикации новых репозиториев.</b>
 </p>
 
 <p align="center">
