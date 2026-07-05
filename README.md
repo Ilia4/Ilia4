@@ -290,8 +290,13 @@
 </p>
 
 <p align="center">
-  <b>TypeScript</b> • <b>grammY</b> • <b>PostgreSQL</b> • <b>Prisma</b> • 
-  <b>HH.ru API</b> • <b>Google Sheets API</b> • <b>LLM</b>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/grammY-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="grammY">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/HH.ru_API-E1011C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru API">
+  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets API">
+  <img src="https://img.shields.io/badge/LLM-111111?style=for-the-badge&logo=openai&logoColor=white" alt="LLM">
 </p>
 
 <p align="center">
