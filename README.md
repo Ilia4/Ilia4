@@ -478,7 +478,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/email-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="assets/email-light.png">
-      <img src="assets/email-light.png" alt="Email" width="180">
+      <img src="assets/email-light.png" alt="Email" width="340">
     </picture>
   </a>
 </p>
