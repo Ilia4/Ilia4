@@ -295,7 +295,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/Ilia4/HH.ru-AI-Automation]">
+  <a href="https://github.com/Ilia4/HH.ru-AI-Automation">
     <img src="https://img.shields.io/badge/Open%20Repository-111111?style=for-the-badge&logo=github&logoColor=white" alt="Open repository">
   </a>
 </p>
