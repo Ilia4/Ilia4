@@ -23,25 +23,9 @@
 </p>
 <br>
 
-<table>
-<tr>
-<td width="40%" valign="top" align="center">
+<br>
 
-<img src="assets/friday_c.gif" width="220" alt="Profile avatar">
-
-<h2>Ilya</h2>
-
-<p>
-  <b>Backend Developer</b><br>
-  <b>AI Automation Developer</b>
-</p>
-
-<p>
-  I build backend services, Telegram bots, parsers and AI-powered tools for business automation.
-</p>
-
-</td>
-<td width="60%" valign="top">
+<img align="left" src="assets/avatar-round.png" width="220" alt="Profile avatar">
 
 <h2>👨‍💻 About me</h2>
 
@@ -50,7 +34,7 @@
 </p>
 
 <p>
-  I create services that connect APIs, databases, AI models and external tools into real working automation systems.
+  I create backend services, Telegram bots, parsers and AI-powered tools for business automation.
 </p>
 
 <ul>
@@ -67,6 +51,4 @@
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,postgres,prisma,docker,react,git,github,linux,vscode" alt="Tech stack">
 </p>
 
-</td>
-</tr>
-</table>
+<br clear="left">
