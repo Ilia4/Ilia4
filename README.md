@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/light-image.png">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/light-image-Photoroom.png">
     <source media="(prefers-color-scheme: light)" srcset="assets/image.png">
     <img alt="Profile header" src="assets/image.png" width="100%">
   </picture>
